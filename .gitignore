@@ -1,0 +1,10 @@
+venv/
+env/
+models/
+*.pth
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
