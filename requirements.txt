@@ -2,8 +2,11 @@ fastapi
 uvicorn
 torch
 torchvision
-pillow
 pandas
-gdown
-numpy==2.0.2
+numpy
+pillow
 transformers
+sentence-transformers
+faiss-cpu
+gdown
+python-multipart

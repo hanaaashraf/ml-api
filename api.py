@@ -13,6 +13,7 @@ from TravelSync.ask_model import ask_model
 app = FastAPI()
 
 # ================= SAFE CLEANERS =================
+
 def clean_value(x):
     if isinstance(x, float):
         if math.isnan(x) or math.isinf(x):
@@ -24,49 +25,73 @@ def clean_dict(d):
         return {k: clean_value(v) for k, v in d.items()}
     return d
 
-# ================= IMAGE MODEL =================
+# ================= LAZY IMAGE MODEL =================
 
 MODEL_PATH = "models/image_model.pth"
 
-if not os.path.exists(MODEL_PATH):
-    os.makedirs("models", exist_ok=True)
+image_model = None
+classes = None
 
-    url = "https://drive.google.com/uc?id=1BSJNf8ca0PB0Uk17uAgKLVo5mYOidL3K"
+def load_image_model():
+    global image_model, classes
 
-    gdown.download(url, MODEL_PATH, quiet=False)
+    if image_model is None:
+        print("Loading image model...")
 
-    
-checkpoint = torch.load(MODEL_PATH, map_location="cpu")
+        if not os.path.exists(MODEL_PATH):
+            os.makedirs("models", exist_ok=True)
 
-model = models.resnet18(weights=None)
-model.fc = torch.nn.Linear(model.fc.in_features, len(checkpoint["classes"]))
-model.load_state_dict(checkpoint["model_state"])
-model.eval()
+            url = "https://drive.google.com/uc?id=1BSJNf8ca0PB0Uk17uAgKLVo5mYOidL3K"
+            gdown.download(url, MODEL_PATH, quiet=False)
 
-classes = checkpoint["classes"]
+        checkpoint = torch.load(MODEL_PATH, map_location="cpu")
+
+        image_model = models.resnet18(weights=None)
+        image_model.fc = torch.nn.Linear(
+            image_model.fc.in_features,
+            len(checkpoint["classes"])
+        )
+
+        image_model.load_state_dict(checkpoint["model_state"])
+        image_model.eval()
+
+        classes = checkpoint["classes"]
+
+# ================= TRANSFORM =================
 
 transform = transforms.Compose([
     transforms.Resize((224, 224)),
     transforms.ToTensor(),
 ])
 
-# ================= DATASET =================
-df = pd.read_csv("TravelSync/data/Egypt_Heritage_Artifacts_1000.csv")
+# ================= LAZY DATASET =================
+
+df = None
+
+def load_df():
+    global df
+    if df is None:
+        print("Loading dataset...")
+        df = pd.read_csv("TravelSync/data/Egypt_Heritage_Artifacts_1000.csv")
 
 # ================= FUNCTIONS =================
 
 def predict_image(image_bytes):
+    load_image_model()
+
     image = Image.open(io.BytesIO(image_bytes)).convert("RGB")
     image = transform(image).unsqueeze(0)
 
     with torch.no_grad():
-        outputs = model(image)
+        outputs = image_model(image)
         _, pred = torch.max(outputs, 1)
 
     return classes[pred.item()]
 
 
 def get_info(name):
+    load_df()
+
     cleaned = name.replace("_", " ").strip().lower()
 
     df_copy = df.copy()

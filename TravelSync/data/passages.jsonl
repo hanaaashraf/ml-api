@@ -1,0 +1,977 @@
+{"text": "Great Pyramid of Giza", "label": 0}
+{"text": "Great Sphinx of Giza", "label": 1}
+{"text": "Step Pyramid of Djoser (Saqqara)", "label": 2}
+{"text": "Bent Pyramid (Dahshur)", "label": 3}
+{"text": "Red Pyramid (Dahshur)", "label": 4}
+{"text": "Pyramid of Khafre", "label": 5}
+{"text": "Pyramid of Menkaure", "label": 6}
+{"text": "Karnak Temple Complex", "label": 7}
+{"text": "Luxor Temple", "label": 8}
+{"text": "Valley of the Kings", "label": 9}
+{"text": "Valley of the Queens", "label": 10}
+{"text": "Tomb of Tutankhamun (KV62)", "label": 11}
+{"text": "Tutankhamun’s Death Mask", "label": 12}
+{"text": "Temple of Hatshepsut (Djeser-Djeseru)", "label": 13}
+{"text": "Abu Simbel Temples", "label": 14}
+{"text": "Temple of Philae (Isis Temple Complex)", "label": 15}
+{"text": "Temple of Edfu (Temple of Horus)", "label": 16}
+{"text": "Temple of Dendera (Hathor)", "label": 17}
+{"text": "Kom Ombo Temple", "label": 18}
+{"text": "Colossi of Memnon", "label": 19}
+{"text": "Saqqara Necropolis and Serapeum", "label": 20}
+{"text": "Memphis (Mit Rahina) and Necropolis", "label": 21}
+{"text": "Abydos (Temple of Seti I and Osireion)", "label": 22}
+{"text": "Rosetta Stone", "label": 23}
+{"text": "Bust of Nefertiti", "label": 24}
+{"text": "Pompey's Pillar", "label": 25}
+{"text": "Kom el Shoqafa Catacombs", "label": 26}
+{"text": "Bibliotheca Alexandrina (Modern Library)", "label": 27}
+{"text": "Royal Jewelry Museum (Alexandria)", "label": 28}
+{"text": "Qaitbay Citadel", "label": 29}
+{"text": "Kom el-Dikka Roman Amphitheatre and Baths", "label": 30}
+{"text": "Heracleion (Thonis) - submerged ancient port", "label": 31}
+{"text": "Taposiris Magna (Temple and archaeological site)", "label": 32}
+{"text": "Montaza Palace and Gardens", "label": 33}
+{"text": "Lighthouse of Alexandria (Pharos) - site/legacy", "label": 34}
+{"text": "Sultan Hassan Mosque-Madrasa", "label": 35}
+{"text": "Ibn Tulun Mosque", "label": 36}
+{"text": "Al-Azhar Mosque and University", "label": 37}
+{"text": "Khan el-Khalili Bazaar", "label": 38}
+{"text": "Ben Ezra Synagogue (Cairo Geniza)", "label": 39}
+{"text": "Hanging Church (Saint Virgin Mary's)", "label": 40}
+{"text": "Saint Catherine's Monastery", "label": 41}
+{"text": "Siwa Oasis and Oracle of Amun", "label": 42}
+{"text": "Faiyum Portraits (Mummy portraits)", "label": 43}
+{"text": "Nubian Museum (Aswan)", "label": 44}
+{"text": "Kalabsha Temple", "label": 45}
+{"text": "Aswan High Dam", "label": 46}
+{"text": "Mastaba of Ti", "label": 47}
+{"text": "Merenptah Stele", "label": 48}
+{"text": "Narmer Palette", "label": 49}
+{"text": "Sabu Disk", "label": 50}
+{"text": "White Chapel of Senusret I", "label": 51}
+{"text": "Deir el-Medina (Workers' Village)", "label": 52}
+{"text": "Ramesseum (Mortuary Temple of Ramses II)", "label": 53}
+{"text": "Tomb of Nefertari (QV66)", "label": 54}
+{"text": "KV9 (Tomb of Ramses V/VI)", "label": 55}
+{"text": "KV17 (Tomb of Seti I)", "label": 56}
+{"text": "Meidum Pyramid", "label": 57}
+{"text": "Hawara Pyramid Complex", "label": 58}
+{"text": "Tomb of Rekhmire", "label": 59}
+{"text": "Mastaba of Mereruka", "label": 60}
+{"text": "Sennedjem Tomb (Deir el-Medina)", "label": 61}
+{"text": "Tomb of Kagemni", "label": 62}
+{"text": "Tomb of Khety (Beni Hasan)", "label": 63}
+{"text": "Beni Hasan tombs", "label": 64}
+{"text": "Tomb of Amenhotep III (Luxor area)", "label": 65}
+{"text": "Amarna (Tell el-Amarna)", "label": 66}
+{"text": "Great Aten Temple (Amarna)", "label": 67}
+{"text": "Amarna Tombs (Noble tombs)", "label": 68}
+{"text": "Royal Tombs of Tanis", "label": 69}
+{"text": "Tanis (Ruins and temples)", "label": 70}
+{"text": "Buhen Fortress (Nubia)", "label": 71}
+{"text": "Soleb Temple (now in Sudan)", "label": 72}
+{"text": "Temple of Soleb", "label": 73}
+{"text": "Sokar-Osiris Stelae", "label": 74}
+{"text": "Canopic Jars (various collections)", "label": 75}
+{"text": "Ushabti figurines (various)", "label": 76}
+{"text": "Scarab amulets (various)", "label": 77}
+{"text": "Papyrus of Ani (Book of the Dead)", "label": 78}
+{"text": "Dendera Zodiac (artifact)", "label": 79}
+{"text": "Luxor Obelisk (originally from Luxor, now in Paris)", "label": 80}
+{"text": "Obelisks of Hatshepsut and Thutmose III", "label": 81}
+{"text": "Colossus of Ramses II (Pi-Ramesses remains)", "label": 82}
+{"text": "Mastabat al-Fir'aun (Qubbat al-Hawa tombs)", "label": 83}
+{"text": "Qubbat al-Hawa (Aswan)", "label": 84}
+{"text": "Gebel el-Silsila quarries", "label": 85}
+{"text": "Tura Limestone Quarries", "label": 86}
+{"text": "Wadi Al-Jarf (ancient harbor and papyri)", "label": 87}
+{"text": "Heirakonpolis (Hierakonpolis)", "label": 88}
+{"text": "Avaris (Tell el-Dab'a)", "label": 89}
+{"text": "Karanis (Kom Aushim)", "label": 90}
+{"text": "Kom Aushim (El-Fayoum Hellenistic town)", "label": 91}
+{"text": "Qasr Qarun (Faiyum)", "label": 92}
+{"text": "Tomb of Mereruka", "label": 93}
+{"text": "Tomb of Akhethetep (Mastaba)", "label": 94}
+{"text": "Mastaba of Ptahhotep (Saqqara)", "label": 95}
+{"text": "Placeholder Site 97", "label": 96}
+{"text": "Placeholder Site 98", "label": 97}
+{"text": "Placeholder Site 99", "label": 98}
+{"text": "Placeholder Site 100", "label": 99}
+{"text": "Naukratis", "label": 100}
+{"text": "Mendes (Tell el-Ruba)", "label": 101}
+{"text": "Sais (Sa el-Hagar)", "label": 102}
+{"text": "Avaris (Tell el-Dab'a)", "label": 103}
+{"text": "Buto (Tell el-Fara'in / Tell el-Yahudiya)", "label": 104}
+{"text": "Tanis (San el-Hagar) - Royal Necropolis", "label": 105}
+{"text": "Bubastis (Tell Basta)", "label": 106}
+{"text": "Alexandria Royal Quarter (ancient)", "label": 107}
+{"text": "The Serapeum of Alexandria (site remains)", "label": 108}
+{"text": "Royal Library of Alexandria (ancient concept and remains)", "label": 109}
+{"text": "Heptastadion and Harbor Installations (Alexandria)", "label": 110}
+{"text": "Pharos Lighthouse (remnants and legacy)", "label": 111}
+{"text": "Nile River Trade Warehouses (Kom el-Dikka area)", "label": 112}
+{"text": "Alexandria's Roman Theater (modern discoveries)", "label": 113}
+{"text": "Alexandria National Museum artifacts collection", "label": 114}
+{"text": "Oxyrhynchus (modern El-Bahnasa) - papyri discoveries", "label": 115}
+{"text": "Karanis (Kom Aushim) - Fayum Hellenistic town", "label": 116}
+{"text": "Tombs and Mosaics of Alexandria's Jewish Quarter", "label": 117}
+{"text": "Alexandrian Necropolis (ancient cemetery areas)", "label": 118}
+{"text": "Rosetta (Rashid) archaeological finds beyond the Rosetta Stone", "label": 119}
+{"text": "Sais Museum Finds", "label": 120}
+{"text": "Mendes Museum (local antiquities)", "label": 121}
+{"text": "Mendes Temple of Banebdjedet (ram cult remains)", "label": 122}
+{"text": "Tomb of Petosiris (near Hermopolis)", "label": 123}
+{"text": "Tell el-Amarna (Amarna site research continuation)", "label": 124}
+{"text": "Deir el-Ballas (New Kingdom administrative site)", "label": 125}
+{"text": "Tombs of the Nobles (Luxor West Bank - expanded catalog)", "label": 126}
+{"text": "Tomb of Menna (Theban Tomb TT69)", "label": 127}
+{"text": "Tomb of Nakht (TT52)", "label": 128}
+{"text": "Tombs of the Shishak period (Third Intermediate Period mapping)", "label": 129}
+{"text": "Berenike (Red Sea port)", "label": 130}
+{"text": "Myos Hormos (Quseir al-Qadim)", "label": 131}
+{"text": "Wadi al-Jarf (ancient harbor and papyri)", "label": 132}
+{"text": "Muziris-like Red Sea trading sites (archaeological comparisons)", "label": 133}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 134}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 135}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 136}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 137}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 138}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 139}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 140}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 141}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 142}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 143}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 144}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 145}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 146}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 147}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 148}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 149}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 150}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 151}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 152}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 153}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 154}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 155}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 156}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 157}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 158}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 159}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 160}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 161}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 162}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 163}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 164}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 165}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 166}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 167}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 168}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 169}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 170}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 171}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 172}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 173}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 174}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 175}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 176}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 177}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 178}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 179}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 180}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 181}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 182}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 183}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 184}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 185}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 186}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 187}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 188}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 189}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 190}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 191}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 192}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 193}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 194}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 195}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 196}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 197}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 198}
+{"text": "Kleopatra's Needle (London/Paris/NY replicas)", "label": 199}
+{"text": "Meroe Pyramids", "label": 200}
+{"text": "Gebel Barkal (Jebel Barkal)", "label": 201}
+{"text": "Nuri Pyramids", "label": 202}
+{"text": "El-Kurru Tombs", "label": 203}
+{"text": "Sanam (Kushite site)", "label": 204}
+{"text": "Musawwarat es-Sufra", "label": 205}
+{"text": "Naqa (Naga) - Temple of Apedemak", "label": 206}
+{"text": "Qasr Ibrim (Kasr Ibrim)", "label": 207}
+{"text": "Buhen Fortress", "label": 208}
+{"text": "Sai Island", "label": 209}
+{"text": "Amara West", "label": 210}
+{"text": "Tombos (New Kingdom forts and cemeteries)", "label": 211}
+{"text": "Kerma (Kerma Culture)", "label": 212}
+{"text": "El-Ghaba (Nubian rock art sites)", "label": 213}
+{"text": "Qustul (Qustul incense burner and cemetery)", "label": 214}
+{"text": "Abu Erteila (Nubian sites)", "label": 215}
+{"text": "Faras Cathedral (Christian Nubia) - paintings and remains", "label": 216}
+{"text": "Old Dongola (Makuria)", "label": 217}
+{"text": "Banganarti (island and church complexes)", "label": 218}
+{"text": "Gebel Adda", "label": 219}
+{"text": "Qasr Ibrim Museum finds and documents", "label": 220}
+{"text": "Kawa (Temple and artifacts)", "label": 221}
+{"text": "Temple of Amun at Kawa", "label": 222}
+{"text": "Amara East (New Kingdom townsite)", "label": 223}
+{"text": "Amara West Museum collections (British Museum involvement)", "label": 224}
+{"text": "Tomb of Taharqa (Nuri site) - notable finds", "label": 225}
+{"text": "El-Obeid and northern Sudan antiquities (regional sites)", "label": 226}
+{"text": "Tombos Palaeolithic and New Kingdom layers (research)", "label": 227}
+{"text": "Wadi el-Malik (Nubian archaeological landscapes)", "label": 228}
+{"text": "Faras Cathedral paintings (Polish expedition rescue)", "label": 229}
+{"text": "El-Kab (Nubian connections and prehistoric layers)", "label": 230}
+{"text": "Dangeil and Sudanese Nile sites", "label": 231}
+{"text": "Sedeinga (Nubian site with pyramids)", "label": 232}
+{"text": "Naqada to Nubia trade routes (archaeological context)", "label": 233}
+{"text": "Qustul incense burner (artifact and debates)", "label": 234}
+{"text": "Wadi el-Hudi (ancient amethyst quarries)", "label": 235}
+{"text": "Kurgus and fourth cataract sites (archaeological surveys)", "label": 236}
+{"text": "Faras Cathedral (site) - archaeological rescue", "label": 237}
+{"text": "Faras paintings (in Warsaw and Khartoum)", "label": 238}
+{"text": "Temple of Amun at Napata (Nuri region)", "label": 239}
+{"text": "Sanam Island (settlement remains)", "label": 240}
+{"text": "Kawa (Kushite temple areas) - further entries", "label": 241}
+{"text": "Amara West urban zone (detailed)", "label": 242}
+{"text": "Sai Island museum artifacts (various collections)", "label": 243}
+{"text": "Qasr Ibrim manuscripts (Coptic, Arabic, Christian texts)", "label": 244}
+{"text": "Buhen fortress (detailed excavations)", "label": 245}
+{"text": "Kerma - Deffufa and Tumulus tombs (detailed)", "label": 246}
+{"text": "Meroitic inscriptions (various stelae and texts)", "label": 247}
+{"text": "Naqa Temple of Amun (detailed)", "label": 248}
+{"text": "Musawwarat es-Sufra Great Enclosure (detailed)", "label": 249}
+{"text": "Sedeinga stele and Isis temple remains", "label": 250}
+{"text": "Nuri royal cemeteries (further detail)", "label": 251}
+{"text": "El-Kurru royal tombs (detailed)", "label": 252}
+{"text": "Qustul cemetery (detailed finds)", "label": 253}
+{"text": "Tens of Nubian small-scale sites (survey records)", "label": 254}
+{"text": "Gebel el-Silsila quarries (Nubian trade connections)", "label": 255}
+{"text": "Khor Abu Anga (Nubian port site)", "label": 256}
+{"text": "Jebel el-Barkal museum collections (local)", "label": 257}
+{"text": "Nubian rock-cut tombs (various sites)", "label": 258}
+{"text": "Pachoras/Al-Bajrawiya (Meroitic town)", "label": 259}
+{"text": "Sai Island cemetery studies (detailed)", "label": 260}
+{"text": "Tombos New Kingdom fort remains (detailed)", "label": 261}
+{"text": "Ghazali monastery (Christian Nubia)", "label": 262}
+{"text": "Old Dongola wall painting panels (museum)", "label": 263}
+{"text": "Soba (capital of Alodia) - archaeological remains", "label": 264}
+{"text": "Temple of Amada", "label": 265}
+{"text": "Temple of Dakka", "label": 266}
+{"text": "Wadi es-Sebua Temples", "label": 267}
+{"text": "Temple of Derr", "label": 268}
+{"text": "Temple of Maharraqa", "label": 269}
+{"text": "Debod Temple (Madrid)", "label": 270}
+{"text": "Taffeh Temple (Rijksmuseum van Oudheden, Leiden)", "label": 271}
+{"text": "Temple of Kalabsha (detailed)", "label": 272}
+{"text": "Temple of Dakka (detailed)", "label": 273}
+{"text": "Qubbat al-Hawa (Aswan)", "label": 274}
+{"text": "Elephantine Island (Aswan)", "label": 275}
+{"text": "Sehel Island (Aswan) - rock inscriptions", "label": 276}
+{"text": "Unfinished Obelisk (Aswan quarries)", "label": 277}
+{"text": "Ghazali Monastery (Nubian Christian monastic site)", "label": 278}
+{"text": "Old Dongola wall paintings (museum holdings)", "label": 279}
+{"text": "Soba (capital of Alodia) - archaeological remains", "label": 280}
+{"text": "Faras Gallery (National Museum in Warsaw) - collection overview", "label": 281}
+{"text": "Sudan National Museum (Khartoum) - Nubian collections", "label": 282}
+{"text": "British Museum - Sudan and Nubia collections", "label": 283}
+{"text": "Leiden Rijksmuseum van Oudheden - Taffeh Temple (collection)", "label": 284}
+{"text": "Meroe West and South Cemeteries (detailed)", "label": 285}
+{"text": "Naqa Temple of Amun (detailed inscriptional corpus)", "label": 286}
+{"text": "Pachoras (al-Bajrawiya) - Meroitic urban center", "label": 287}
+{"text": "Meroe Ironworking evidence and industrial archaeology", "label": 288}
+{"text": "Nubian Desert rock art (surveyed panels)", "label": 289}
+{"text": "Napata (ancient city and royal precinct)", "label": 290}
+{"text": "Tomb of Piye (el-Kurru - royal tomb)", "label": 291}
+{"text": "Nuri West Cemetery (further details)", "label": 292}
+{"text": "El-Kurru Tomb of Taharqa (specific tomb)", "label": 293}
+{"text": "Musawwarat es-Sufra Temple 100 (detailed)", "label": 294}
+{"text": "Ghazali Monastery (detailed art and architecture)", "label": 295}
+{"text": "Royal City of Meroe (urban spatial dynamics)", "label": 296}
+{"text": "Sai Island (detailed cemeteries and urban traces)", "label": 297}
+{"text": "Napata royal palaces (ruins and remains)", "label": 298}
+{"text": "International Campaign to Save the Monuments of Nubia (UNESCO)", "label": 299}
+{"text": "White Monastery (Deir el-Abyad)", "label": 300}
+{"text": "Red Monastery (Deir el-Ahmar)", "label": 301}
+{"text": "Monastery of Saint Anthony (Deir Mar Antonios)", "label": 302}
+{"text": "Monastery of Saint Paul the Anchorite (Deir Anba Bola)", "label": 303}
+{"text": "Monastery of Saint Macarius (Deir Anba Makarios)", "label": 304}
+{"text": "Wadi El Natrun Monasteries (Anba Bishoy, Anba Pishoy, etc.)", "label": 305}
+{"text": "Abu Mena", "label": 306}
+{"text": "Coptic Museum (Coptic Cairo)", "label": 307}
+{"text": "Church of Abu Serga (Saints Sergius and Bacchus)", "label": 308}
+{"text": "Hanging Church (Saint Virgin Mary's) - Coptic Cairo", "label": 309}
+{"text": "Ben Ezra Synagogue / Cairo Geniza (Coptic Cairo context)", "label": 310}
+{"text": "Church of St. Barbara (Coptic Cairo)", "label": 311}
+{"text": "Monastery of St. Bishoy (Deir Anba Bishoy)", "label": 312}
+{"text": "Monastery of St. Mina (Mariout) - Abu Mena connections", "label": 313}
+{"text": "Monastery of Anba Shenouda (White Monastery leadership link)", "label": 314}
+{"text": "Monastery of Saint Macarius Library manuscripts (codices)", "label": 315}
+{"text": "Saint Catherine's Monastery (Mount Sinai)", "label": 316}
+{"text": "Monastery of St. Simeon (Aswan)", "label": 317}
+{"text": "Monastery of Deir el-Bahari (Coptic phases)", "label": 318}
+{"text": "Monastery of Saint Jeremiah (Coptic site)", "label": 319}
+{"text": "Monastery of Saints Barsoum and Bishoy (various small monastic sites)", "label": 320}
+{"text": "Church of St. Mercurius (Coptic Cairo)", "label": 321}
+{"text": "Monastery of the Syrians (Syriac monastic connection in Egypt)", "label": 322}
+{"text": "Antinoopolis (Hadrianopolis) - Byzantine/Coptic continuity", "label": 323}
+{"text": "Coptic Manuscripts at the British Library and other collections", "label": 324}
+{"text": "Nag Hammadi Library manuscripts (Coptic codices)", "label": 325}
+{"text": "Monastery of the Syriac Orthodox in Cairo (modern traces)", "label": 326}
+{"text": "Church of the Holy Virgin (Babylon Fortress area)", "label": 327}
+{"text": "Monastery of Saint Theodore (various loci)", "label": 328}
+{"text": "Monastery of Saint Shenouda (associated sites beyond White Monastery)", "label": 329}
+{"text": "Church of Saints Sergius and Bacchus (Abu Serga) - interior artifacts", "label": 330}
+{"text": "Monastery of the Syrians (Deir al-Suryan) in Wadi Natrun", "label": 331}
+{"text": "Monastery of Saint George (Coptic Church site)", "label": 332}
+{"text": "Abu Mena Museum finds and church mosaics (detailed)", "label": 333}
+{"text": "Monastery of Saints Sergius and Bacchus (additional sites)", "label": 334}
+{"text": "Monastery of St. Bishoy manuscripts and icons (collections)", "label": 335}
+{"text": "Monastery of Saint Macarius (architectural phases) - additional study", "label": 336}
+{"text": "Coptic Cairo walking heritage and historic district", "label": 337}
+{"text": "St. Antony's Monastery libraries and codices (detailed)", "label": 338}
+{"text": "Church of the Holy Virgin (Haret Zuweila) - Coptic Cairo", "label": 339}
+{"text": "Monastery of St. Anthony frescoes and iconography (detailed)", "label": 340}
+{"text": "Monastery of St. Samuel the Confessor (Western Desert)", "label": 341}
+{"text": "Coptic textiles and liturgical vestments in museum collections", "label": 342}
+{"text": "Coptic inscriptions and graffiti research projects", "label": 343}
+{"text": "Church mosaics (Byzantine and late antique mosaics in Egypt)", "label": 344}
+{"text": "Coptic icons and panel paintings (collections and styles)", "label": 345}
+{"text": "Saint Catherine's manuscript conservation projects", "label": 346}
+{"text": "Coptic pilgrimage routes and devotional geographies", "label": 347}
+{"text": "Coptic art in modern exhibitions and repatriation debates", "label": 348}
+{"text": "Coptic papyri and documentary archives (legal, administrative texts)", "label": 349}
+{"text": "Coptic carved stonework and architectural fragments (museum collections)", "label": 350}
+{"text": "Church of Saint Sergius (Abu Serga) - crypt and Holy Family tradition", "label": 351}
+{"text": "Monastery of Saint Samaan the Tanner (modern pilgrimage site)", "label": 352}
+{"text": "Church of Saints Sergius and Bacchus – art historical importance", "label": 353}
+{"text": "Desert monasticism ethnographic research projects", "label": 354}
+{"text": "Monastery of St. Catherine diplomatic status and international protections", "label": 355}
+{"text": "Coptic art pedagogy and contemporary iconography initiatives", "label": 356}
+{"text": "Monastery libraries digitization projects (general)", "label": 357}
+{"text": "Coptic liturgical music and chant archives", "label": 358}
+{"text": "Monastery of St. Simon (rocks and cave churches - Mokattam)", "label": 359}
+{"text": "Coptic epigraphy projects and bilingual inscriptions (Greek-Coptic)", "label": 360}
+{"text": "Monastery of the Virgin Mary at Kosheh (Upper Egypt) - local shrine", "label": 361}
+{"text": "Coptic Christian funerary stelae and epitaphs (research corpus)", "label": 362}
+{"text": "Monastery of St. Athanasius (monastic traditions and hymns)", "label": 363}
+{"text": "Coptic pilgrimage festivals and modern observances (e.g., Epiphany, Nativity)", "label": 364}
+{"text": "Monastery conservation case studies (UNESCO and international projects)", "label": 365}
+{"text": "Coptic art and icon restoration training programs", "label": 366}
+{"text": "Church of the Holy Virgin (Haret al-Rum) - historic parish church", "label": 367}
+{"text": "Coptic education and theological schools linked to monasteries", "label": 368}
+{"text": "Coptic carved wooden iconostases and screens (collections)", "label": 369}
+{"text": "Monastery of Anba Antoine (St. Anthony) pilgrimage management", "label": 370}
+{"text": "Church of the Virgin (Haret Zuweila) - liturgical art", "label": 371}
+{"text": "Coptic hymnology manuscripts and chant books", "label": 372}
+{"text": "Monastery visitor experience plans and community heritage", "label": 373}
+{"text": "Monastery of Saint Bishoy (detailed)", "label": 374}
+{"text": "Monastery of Anba Mina (St. Mina, Mariout site)", "label": 375}
+{"text": "Monastery of St. Pishoy (detailed)", "label": 376}
+{"text": "Church of Saints Sergius and Bacchus (Abu Serga) - additional artifacts", "label": 377}
+{"text": "Ben Ezra Synagogue (Geniza important fragments)", "label": 378}
+{"text": "Nag Hammadi Museum materials (local exhibits)", "label": 379}
+{"text": "Monastery of the Archangel Michael (various Ukaz sites)", "label": 380}
+{"text": "Church of St. George (Old Cairo notable icons)", "label": 381}
+{"text": "Monastery of the Virgin (various Upper Egypt)", "label": 382}
+{"text": "Monastery of the Transfiguration (local naming)", "label": 383}
+{"text": "Faiyum Coptic churches and monasteries (group)", "label": 384}
+{"text": "Coptic sites in Asyut region (cluster of churches)", "label": 385}
+{"text": "Coptic heritage in Minya (church complexes)", "label": 386}
+{"text": "Monastery of the Holy Virgin at Asyut (local pilgrimage site)", "label": 387}
+{"text": "Monastery of St. Aaron (Sinai lesser-known sites)", "label": 388}
+{"text": "Monastery of St. John the Short (desert hermit sites)", "label": 389}
+{"text": "Church of the Martyrs (various regional examples)", "label": 390}
+{"text": "Monastery of St. Theodore (Upper Egypt sample site)", "label": 391}
+{"text": "Coptic papyri collections (regional museums)", "label": 392}
+{"text": "Coptic art collections in the Egyptian Museum (selected artifacts)", "label": 393}
+{"text": "Monastic guesthouses and pilgrim lamps (material culture records)", "label": 394}
+{"text": "Coptic wall paintings catalog (national efforts)", "label": 395}
+{"text": "Churches of the Wadi al-Natrun cluster (detailed entries)", "label": 396}
+{"text": "Monastery of the Syrians (detailed artifacts)", "label": 397}
+{"text": "Antonius-related hermitages and caves (Eastern Desert)", "label": 398}
+{"text": "Monastery bell and liturgical object catalogues (museum collections)", "label": 399}
+{"text": "Mosque of Muhammad Ali (Alabaster Mosque)", "label": 400}
+{"text": "Sultan Hassan Mosque-Madrasa", "label": 401}
+{"text": "Ibn Tulun Mosque", "label": 402}
+{"text": "Al-Azhar Mosque and University", "label": 403}
+{"text": "Al-Muizz li-Dinillah Street (Historic Cairo)", "label": 404}
+{"text": "Bab Zuweila (city gate)", "label": 405}
+{"text": "Bab al-Futuh (city gate)", "label": 406}
+{"text": "Khan el-Khalili Bazaar", "label": 407}
+{"text": "Al-Hakim Mosque (Bab al-Nasr area)", "label": 408}
+{"text": "Bayt al-Suhaymi (historic house)", "label": 409}
+{"text": "Gayer-Anderson Museum (Beit al-Kritliya)", "label": 410}
+{"text": "Al-Qarafa (City of the Dead) - historic necropolis", "label": 411}
+{"text": "Sabil-Kuttab (public fountain and school) of Sultan Qaytbay", "label": 412}
+{"text": "Sabil of Qaytbay (historic example)", "label": 413}
+{"text": "Mosque-Madrasa of Sultan Barquq", "label": 414}
+{"text": "Mausoleum of Al-Rifa'i (royal mausoleum)", "label": 415}
+{"text": "Madrasa-Mosque of Sultan al-Muayyad", "label": 416}
+{"text": "Sultan al-Ghuri Complex", "label": 417}
+{"text": "Bayt al-Kritliya (Gayer-Anderson house) - interior collections", "label": 418}
+{"text": "Sufi zawiyas and shrines in Cairo (e.g., Sayyida Nafisa)", "label": 419}
+{"text": "Sayyida Zainab Mosque and shrine", "label": 420}
+{"text": "Al-Muizz restoration pedestrianization project", "label": 421}
+{"text": "Baron Empain Palace (Le Palais Hindou)", "label": 422}
+{"text": "Heliopolis neighborhood (historic urban district)", "label": 423}
+{"text": "Abdeen Palace", "label": 424}
+{"text": "Cairo Opera House (original Khedivial Opera House history)", "label": 425}
+{"text": "Cairo Tower (Gezira)", "label": 426}
+{"text": "Egyptian Museum (Tahrir) - collections (note: moving to GEM)", "label": 427}
+{"text": "Grand Egyptian Museum (GEM) - modern national museum", "label": 428}
+{"text": "National Museum of Egyptian Civilization (NMEC)", "label": 429}
+{"text": "Museum of Islamic Art (Cairo)", "label": 430}
+{"text": "Coptic Museum (already included earlier but here as cross-reference)", "label": 431}
+{"text": "Manial Palace and Museum", "label": 432}
+{"text": "Khedive Ismail's palaces (examples across Cairo)", "label": 433}
+{"text": "Baron Empain Palace (already included but cross-reference)", "label": 434}
+{"text": "Suez Canal (historic infrastructure)", "label": 435}
+{"text": "Port Said historic quarter and museums", "label": 436}
+{"text": "Ismailia (Suez Canal city) - museums and urban heritage", "label": 437}
+{"text": "Railway Museum (Alexandria or Egyptian National Railway Museum)", "label": 438}
+{"text": "Heliopolis Palace Hotel (historic building)", "label": 439}
+{"text": "Baron Empain Museum exhibitions and cultural programming", "label": 440}
+{"text": "Gezira Island and Zamalek urban heritage", "label": 441}
+{"text": "Baron Empain Palace (again cross-reference)", "label": 442}
+{"text": "Mahmoud Mokhtar's 'Nahdet Misr' statue (Cairo)", "label": 443}
+{"text": "Monuments of Ottoman Alexandria (e.g., Corniche mansions)", "label": 444}
+{"text": "Villa Helena and other colonial villas in Alexandria", "label": 445}
+{"text": "Montaza Palace and Gardens (already included earlier but as cross-reference)", "label": 446}
+{"text": "Alexandria's Graeco-Roman heritage (museums and ruins)", "label": 447}
+{"text": "Lighthouse of Alexandria (historic site/archaeology) - cross-reference", "label": 448}
+{"text": "Al-Qalaa (Citadel of Cairo) - broader complex", "label": 449}
+{"text": "Salah al-Din (Saladin) Citadel remains and museums", "label": 450}
+{"text": "The Ablaq and Mamluk decorative stonework corpus (architectural study)", "label": 451}
+{"text": "Al-Hussein Mosque and religious precinct (including Sayyida Zainab proximity)", "label": 452}
+{"text": "Sufi lodges (khanaqahs) and Mamluk institutions catalog", "label": 453}
+{"text": "Madrasa of al-Salih Najm al-Din Ayyub (Mamluk madrasa)", "label": 454}
+{"text": "Mamluk-era hospitals (bimaristans) and health institutions (e.g., Qalawun)", "label": 455}
+{"text": "Ottoman-era civic buildings and mansions (Istanbul-style influences)", "label": 456}
+{"text": "Suez Canal House museums and maritime heritage centers", "label": 457}
+{"text": "Modernist architecture in Cairo (mid-20th century) - examples and preservation", "label": 458}
+{"text": "Modern public monuments (e.g., 1952 Revolution Memorials)", "label": 459}
+{"text": "Museum of Modern Egyptian Art (Gezira)", "label": 460}
+{"text": "Islamic Cairo UNESCO World Heritage listing (Historic Cairo)", "label": 461}
+{"text": "Historic Islamic libraries and waqf institutions (e.g., Al-Azhar endowments)", "label": 462}
+{"text": "Fatimid-era foundations and archaeological remains (Fustat origins)", "label": 463}
+{"text": "Ottoman imperial mosques and regional relics (e.g., Muhammad Ali style syncretism)", "label": 464}
+{"text": "Historic hospitals conversion to museums and cultural centers (adaptive reuse examples)", "label": 465}
+{"text": "Al-Azhar Park (redevelopment and urban park project)", "label": 466}
+{"text": "Ayyubid-era fortifications (city walls remnants)", "label": 467}
+{"text": "Sayyida Nafisa Shrine and precinct", "label": 468}
+{"text": "Al-Rifa'i Mosque (already cross-referenced but include detail)", "label": 469}
+{"text": "Muhammad Ali Pasha's palaces (various)", "label": 470}
+{"text": "Al-Mu'izz Street mosque ensemble (detailed)", "label": 471}
+{"text": "Historic houses of Cairo (Bayt Al-Kritliya mentioned earlier but here others: Bayt Al-Suhaymi already included)", "label": 472}
+{"text": "Beit Al-Kiraly (historic house)", "label": 473}
+{"text": "Bayt Al-Kirsh", "label": 474}
+{"text": "Kirkos Palace (lesser-known)", "label": 475}
+{"text": "Cairo Citadel museums (Military and Police Museums details)", "label": 476}
+{"text": "Cairo's Nile Corniche historic promenades", "label": 477}
+{"text": "Zamalek villas (historic architecture)", "label": 478}
+{"text": "Gezira Sporting Club historic buildings", "label": 479}
+{"text": "Al-Qasr Al-Aini medical heritage (historic hospitals and medical school)", "label": 480}
+{"text": "School of Medicine historic buildings (Cairo University)", "label": 481}
+{"text": "University of Cairo historic campus (Gama'a Al-Qahirah)", "label": 482}
+{"text": "Baron's Palace of Heliopolis (cross ref)", "label": 483}
+{"text": "Lepsius house (German missions and houses)", "label": 484}
+{"text": "Talaat Harb Square and banking heritage (20th century)", "label": 485}
+{"text": "Downtown Cairo (Qasr al-Nil and Talaat Harb historic axes)", "label": 486}
+{"text": "Opera Square and Tahrir heritage precincts", "label": 487}
+{"text": "Egyptian National Library and Archives (Dar al-Kutub)", "label": 488}
+{"text": "Bibliotheca Alexandrina (already included but cross-ref)", "label": 489}
+{"text": "Alexandria Library archives and manuscripts (detailed)", "label": 490}
+{"text": "Kom el-Dikka Roman theatre (already included cross-ref)", "label": 491}
+{"text": "Roman and Byzantine mosaics in Egyptian museums (e.g., Bawit, Alexandria displays)", "label": 492}
+{"text": "Saladin's hospitals (examples and history)", "label": 493}
+{"text": "Historic Ottoman fountains and hammams (public baths)", "label": 494}
+{"text": "Hammam Al-Borsa (historic public bath)", "label": 495}
+{"text": "Qasr Al-Nil bridge and 20th-century monuments", "label": 496}
+{"text": "Maspero and antiquities authority historic headquarters (Nile Corniche)", "label": 497}
+{"text": "Cairo's early cinema palaces (Ramses Cinema, Cinema Season examples)", "label": 498}
+{"text": "Modernist villas of Zamalek (architectural surveys)", "label": 499}
+{"text": "Mask of Tutankhamun", "label": 500}
+{"text": "Tutankhamun's Inner Gold Coffin", "label": 501}
+{"text": "Tutankhamun's Funerary Throne", "label": 502}
+{"text": "Tutankhamun's Canopic Shrine and Jars", "label": 503}
+{"text": "Tutankhamun's Dagger (iron-blade)", "label": 504}
+{"text": "Tutankhamun's Chariot and Wheels", "label": 505}
+{"text": "Tutankhamun's Golden Collar (Usekh)", "label": 506}
+{"text": "KV62 Burial Chamber assemblage (selected items)", "label": 507}
+{"text": "Narmer Palette", "label": 508}
+{"text": "Palette of King Scorpion (impressions)", "label": 509}
+{"text": "Statue of Khafre (diorite seated statue)", "label": 510}
+{"text": "Great Sphinx Limestone blocks (museum fragment)", "label": 511}
+{"text": "Statue of Menkaure (triad group fragments)", "label": 512}
+{"text": "Block statue of Amenemhat III (granite fragment)", "label": 513}
+{"text": "Stele of Merneptah (victory stele - fragment)", "label": 514}
+{"text": "Seated Scribe (Old Kingdom painted limestone)", "label": 515}
+{"text": "Ti alabaster statue (Ti watching hippopotamus hunt relief)", "label": 516}
+{"text": "Model of boats from tomb assemblages (wooden models)", "label": 517}
+{"text": "Khufu pyramid stair / relief fragment (museum piece)", "label": 518}
+{"text": "Relief fragment from the Pyramid Texts (Old Kingdom)", "label": 519}
+{"text": "Gold leaf funerary mask (non-Tutankhamun example)", "label": 520}
+{"text": "Amulet assemblage from New Kingdom burials", "label": 521}
+{"text": "Shabti box and Ushabti figures (royal set)", "label": 522}
+{"text": "Statue of Hatshepsut (red granite fragment)", "label": 523}
+{"text": "Colossal head of Amenhotep III (stone fragment)", "label": 524}
+{"text": "Statuette of Akhenaten (limestone and painted)", "label": 525}
+{"text": "Relief panel from Amarna workshop (Akhenaten era)", "label": 526}
+{"text": "Amarna-era Aten disk relief fragments", "label": 527}
+{"text": "Boundary stelae fragments from Akhetaten", "label": 528}
+{"text": "Chest of weighted scales (funerary equipment)", "label": 529}
+{"text": "Bronze mirror with handle and inlay", "label": 530}
+{"text": "Bronze axe-head from Predynastic context", "label": 531}
+{"text": "Faience scarab collection (royal names)", "label": 532}
+{"text": "Faience ushabti of a noble official", "label": 533}
+{"text": "Stone sarcophagus lid with painted scenes", "label": 534}
+{"text": "Canopic chest of a high official (stone)", "label": 535}
+{"text": "Funerary papyrus fragment (Book of the Dead excerpt)", "label": 536}
+{"text": "Papyrus with administrative records (New Kingdom)", "label": 537}
+{"text": "Stela of an Old Kingdom official with offering formula", "label": 538}
+{"text": "Senet game board (wooden, painted)", "label": 539}
+{"text": "Bronze chariot fittings (New Kingdom)", "label": 540}
+{"text": "Gold diadem with lotus motifs (royal regalia)", "label": 541}
+{"text": "Silver ritual bowls (Imported metalwork in Egypt)", "label": 542}
+{"text": "Bronze statue of Ptah (small cult image)", "label": 543}
+{"text": "Hieratic ostraca with school exercises (New Kingdom)", "label": 544}
+{"text": "Calcite (alabaster) cosmetic vessel sets", "label": 545}
+{"text": "Stone palette from Predynastic burial", "label": 546}
+{"text": "Predynastic pottery jar with incised decoration", "label": 547}
+{"text": "Ritual libation vessel (ceremonial)", "label": 548}
+{"text": "Bronze votive statuette of Bes (domestic deity)", "label": 549}
+{"text": "Wooden funerary figurine (Middle Kingdom)", "label": 550}
+{"text": "Inscribed statue of Senusret III (granite fragment)", "label": 551}
+{"text": "Block statue of a priest (Middle Kingdom)", "label": 552}
+{"text": "Statue of Mentuhotep II (reconstructed fragment)", "label": 553}
+{"text": "Quartzite head of an early dynasty ruler", "label": 554}
+{"text": "Bronze bell and votive set from temple deposit", "label": 555}
+{"text": "Bronze and gold jewelry hoard (elite burial)", "label": 556}
+{"text": "Ptah-Sokar-Osiris composite coffin model (Middle Kingdom type)", "label": 557}
+{"text": "Mastaba offering table (Old Kingdom limestone)", "label": 558}
+{"text": "Relief from the Temple of Abydos (set of panels)", "label": 559}
+{"text": "Stele of Meri (New Kingdom private stela)", "label": 560}
+{"text": "Statuette of Anubis (wood and gesso)", "label": 561}
+{"text": "Canopic jar set with human-headed lids (royal style)", "label": 562}
+{"text": "Mummy portrait (Fayum-style, though later periods)", "label": 563}
+{"text": "Funerary mask of a noble (painted cartonnage)", "label": 564}
+{"text": "Ramesside bronze votive plaques", "label": 565}
+{"text": "Sistrum fragments (musical instrument from temples)", "label": 566}
+{"text": "Copper chisels and toolkits from workshop contexts", "label": 567}
+{"text": "Stone amulet of Wadjet (Eye of Horus)", "label": 568}
+{"text": "Ceramic amphorae from naval provisioning (New Kingdom)", "label": 569}
+{"text": "Bone hairpins and combs from tomb assemblages", "label": 570}
+{"text": "Elaborate bead necklace with carnelian and gold", "label": 571}
+{"text": "Bronze-Ram statuette of Amun (small cult object)", "label": 572}
+{"text": "Roundel with king's cartouche (seal impression)", "label": 573}
+{"text": "Stone label with king's name (administrative tag)", "label": 574}
+{"text": "Model granary and bakery from tomb model sets", "label": 575}
+{"text": "Wooden statuette of Osiris (small votive)", "label": 576}
+{"text": "Bronze statuette of a servant musician (tomb model)", "label": 577}
+{"text": "Painted coffin fragment with spells (Book of the Dead)", "label": 578}
+{"text": "Polished stone mace-head (ceremonial weapon)", "label": 579}
+{"text": "Relief block from Karnak temple (Amun priest depictions)", "label": 580}
+{"text": "Statue of Horemheb (limestone figure fragment)", "label": 581}
+{"text": "Relief showing pharaoh smiting enemies (New Kingdom royal propaganda)", "label": 582}
+{"text": "Amulet of Sekhmet (stone carving)", "label": 583}
+{"text": "Gold pectoral with falcon motif (royal jewelry)", "label": 584}
+{"text": "Bronze anchor fragment (ancient ship remains)", "label": 585}
+{"text": "Faience inlay panels from furniture", "label": 586}
+{"text": "Stone offering basin with inscriptions", "label": 587}
+{"text": "Papyrus administrative codex (grain accounts)", "label": 588}
+{"text": "Ivory gaming pieces (luxury tomb objects)", "label": 589}
+{"text": "Stone stela commemorating canal works (Old Kingdom)", "label": 590}
+{"text": "Gold foil mummy mask fragments (privileged burial)", "label": 591}
+{"text": "Bronze ram's horn trumpet (ceremonial instrument)", "label": 592}
+{"text": "Bronze fishhook and netting gear (fishing tools)", "label": 593}
+{"text": "Hieroglyphic-engraved cosmetic palette (Predynastic influence)", "label": 594}
+{"text": "Quartz amulet with royal title engraving", "label": 595}
+{"text": "Bronze mirror with inscribed handle (New Kingdom)", "label": 596}
+{"text": "Wooden storage box with painted titles (tomb label)", "label": 597}
+{"text": "Painted wooden coffin of a priestess (Middle Kingdom)", "label": 598}
+{"text": "Stela of a warrior chieftain (Second Intermediate Period)", "label": 599}
+{"text": "Bronze falcon-standard base (temple furniture)", "label": 600}
+{"text": "Calcite statue of a woman (Old Kingdom portrait)", "label": 601}
+{"text": "Copper alloy figurine of a deity (small cult image)", "label": 602}
+{"text": "Fragmentary royal cartouches on temple blocks (New Kingdom)", "label": 603}
+{"text": "Sun-disc pectoral with inlaid glass (religious ornament)", "label": 604}
+{"text": "King's seal impression on clay tag (administrative artifact)", "label": 605}
+{"text": "Stone relief of offering bearers (Old Kingdom tomb)", "label": 606}
+{"text": "Silver-inlaid dagger of a noble (prestige weapon)", "label": 607}
+{"text": "Wooden statuette of a dancer (New Kingdom tomb model)", "label": 608}
+{"text": "Bronze socketed spear-heads (military equipment)", "label": 609}
+{"text": "Pottery jar with trade mark (Late Bronze Age trade)", "label": 610}
+{"text": "Stele commemorating legal decree (New Kingdom magistrate)", "label": 611}
+{"text": "Gold bracelet with hieroglyphic inscription (elite jewelry)", "label": 612}
+{"text": "Faience amulet of the god Ptah (craftsman's devotion)", "label": 613}
+{"text": "Painted wooden shrine door (temple fragment)", "label": 614}
+{"text": "Stone sarab (magical amulet) with protective formula", "label": 615}
+{"text": "Canopic jar with hieroglyphic cartouche (royal association)", "label": 616}
+{"text": "Bronze votive plaque with hieroglyphs (temple offering)", "label": 617}
+{"text": "Wooden statue of a seated woman (domestic cult)", "label": 618}
+{"text": "Bronze belt fittings with inlaid faience", "label": 619}
+{"text": "Statuette of Bes in faience (household protective deity)", "label": 620}
+{"text": "Gold ring with inlaid carnelian inscription", "label": 621}
+{"text": "Calcite palette with cosmetic grinding surfaces", "label": 622}
+{"text": "Stone bas-relief of ritual procession (New Kingdom)", "label": 623}
+{"text": "Painted wooden model couple (funerary companionship)", "label": 624}
+{"text": "Bronze ritual basin with pouring spout", "label": 625}
+{"text": "Ivory plaque with inlaid scene (luxury furniture)", "label": 626}
+{"text": "Amulet of the scarab beetle with royal name", "label": 627}
+{"text": "Statue fragment of Ramesses II (massive colossus fragment)", "label": 628}
+{"text": "Stone tablet recording temple offerings (New Kingdom)", "label": 629}
+{"text": "Wooden twin-boat model (riverine depiction)", "label": 630}
+{"text": "Bronze lion-head door handle (palatial furnishing)", "label": 631}
+{"text": "Gold leaf used in funerary cosmetics (residue finds)", "label": 632}
+{"text": "Carved ostracon with sketch of a scribe (artist's practice)", "label": 633}
+{"text": "Bronze mirror-case with repoussé decoration", "label": 634}
+{"text": "Faience plaque depicting Hathor (domestic cult)", "label": 635}
+{"text": "Inscribed ostracon with workman's graffiti (Deir el-Medina type)", "label": 636}
+{"text": "Stone relief of the Nile flood (agricultural rituals)", "label": 637}
+{"text": "Bronze-bound wooden staff (official insignia)", "label": 638}
+{"text": "Painted cartonnage mummy mask (Ptolemaic tradition)", "label": 639}
+{"text": "Stela of royal appointment (Middle Kingdom official)", "label": 640}
+{"text": "Stone cup with votive inscription (temple offering)", "label": 641}
+{"text": "Faience gaming token with hieroglyphs", "label": 642}
+{"text": "Bronze votive plaque of Amun-Ra (temple deposit)", "label": 643}
+{"text": "Gold earring set with filigree (elite female burial)", "label": 644}
+{"text": "Inscribed funerary cone (decorative tomb element)", "label": 645}
+{"text": "Large stone statue of Aten-era noble (Amarna fragment)", "label": 646}
+{"text": "Gold-inlaid dagger handle with niello work (prestige metalwork)", "label": 647}
+{"text": "Bronze horse-bits (military/equestrian equipment)", "label": 648}
+{"text": "Stone fragment with pyramidion inscription (funerary topping)", "label": 649}
+{"text": "Calcite head of a priestess (portrait sculpture)", "label": 650}
+{"text": "Wooden figurine of a child (domestic votive)", "label": 651}
+{"text": "Bronze amulet of Thoth (scribal patron deity)", "label": 652}
+{"text": "Stone lintel with Hathor-headed capitals (temple architecture)", "label": 653}
+{"text": "Gold funerary necklace with inlaid glass", "label": 654}
+{"text": "Bronze votive plaque showing Nile goddess", "label": 655}
+{"text": "Stone sarcophagus of a high priest (fragment)", "label": 656}
+{"text": "Gold signet seal (royal administrative use)", "label": 657}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 658}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 659}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 660}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 661}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 662}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 663}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 664}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 665}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 666}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 667}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 668}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 669}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 670}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 671}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 672}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 673}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 674}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 675}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 676}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 677}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 678}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 679}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 680}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 681}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 682}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 683}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 684}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 685}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 686}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 687}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 688}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 689}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 690}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 691}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 692}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 693}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 694}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 695}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 696}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 697}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 698}
+{"text": "Mask of Tutankhamun (variant copy)", "label": 699}
+{"text": "Fayum Mummy Portrait of a Young Woman (Hawara)", "label": 700}
+{"text": "Fayum Mummy Portrait of a Nobleman with Tunic", "label": 701}
+{"text": "Fayum Mummy Portrait of a Young Boy with Rosette", "label": 702}
+{"text": "Fayum Mummy Portrait of a Woman with Earrings", "label": 703}
+{"text": "Fayum Mummy Portrait of a Soldier (helmeted)", "label": 704}
+{"text": "Mummy Portrait of a Musician with Lyre", "label": 705}
+{"text": "Mummy Portrait of a Lady with Green Background", "label": 706}
+{"text": "Fayum Portrait of a Couple (double panel)", "label": 707}
+{"text": "Bronze statuette of Apollo (Alexandria workshop)", "label": 708}
+{"text": "Marble bust of an Alexandrian merchant", "label": 709}
+{"text": "Terracotta statuette of Isis (domestic cult)", "label": 710}
+{"text": "Glass amphoriskos with polychrome decoration", "label": 711}
+{"text": "Roman-era floor mosaic: Dionysian procession (Kom el-Dikka)", "label": 712}
+{"text": "Roman mosaic panel: Nilotic scene (Kom el-Dikka)", "label": 713}
+{"text": "Statue of Serapis fragment (Hellenistic cult)", "label": 714}
+{"text": "Head of Anubis in Greco-Egyptian style (Alexandria)", "label": 715}
+{"text": "Bronze oil lamp with fish motifs (Roman Alexandria)", "label": 716}
+{"text": "Silver coin hoard (Ptolemaic issues)", "label": 717}
+{"text": "Ptolemaic bronze mirror with handle", "label": 718}
+{"text": "Graeco-Roman terracotta relief of Harpocrates", "label": 719}
+{"text": "Roman glass jug with cameo decoration", "label": 720}
+{"text": "Bronze cavalry harness fittings (military gear)", "label": 721}
+{"text": "Alexandrian lead curse tablet (defixio)", "label": 722}
+{"text": "Marble funerary stele with bilingual inscription (Greek-Egyptian)", "label": 723}
+{"text": "Statue of Dionysus (Hellenistic marble copy)", "label": 724}
+{"text": "Head of Zeus (marble portrait)", "label": 725}
+{"text": "Roman-era bronze incense burner with dancer relief", "label": 726}
+{"text": "Child's bronze puppet (toy) from Roman villa", "label": 727}
+{"text": "Terracotta oil lamp with Christian symbols (early Coptic)", "label": 728}
+{"text": "Wooden icon of Saint Menas (Coptic, painted)", "label": 729}
+{"text": "Coptic textile fragment with embroidered crosses", "label": 730}
+{"text": "Silver liturgical chalice (Coptic church)", "label": 731}
+{"text": "Inscribed ostracon with Coptic hymn fragments", "label": 732}
+{"text": "Coptic papyrus with liturgical formulas (parchment codex fragment)", "label": 733}
+{"text": "Icon of the Virgin and Child (tempera on wood, Coptic style)", "label": 734}
+{"text": "Byzantine seal with Christian symbols", "label": 735}
+{"text": "Mosaic icon panel: Christ Pantokrator (late antique)", "label": 736}
+{"text": "Fresco fragment from a Coptic church with saints", "label": 737}
+{"text": "Marble sarcophagus lid with Greco-Roman reliefs", "label": 738}
+{"text": "Bronze mirror with engraved myth scene (Roman provincial)", "label": 739}
+{"text": "Glass unguentarium with graffiti", "label": 740}
+{"text": "Terracotta funerary figurine of Osiris-Apis syncretism", "label": 741}
+{"text": "Roman oil lamp with gladiatorial scene", "label": 742}
+{"text": "Marble relief of a banquet scene (Hellenistic)", "label": 743}
+{"text": "Bronze coin: Ptolemy II tetradrachm", "label": 744}
+{"text": "Bronze statuette of Hermes-Mercury (travel patron)", "label": 745}
+{"text": "Painted wooden mummy mask with encaustic technique (Fayum style)", "label": 746}
+{"text": "Silver diadem with laurel motifs (Hellenistic royal)", "label": 747}
+{"text": "Terracotta votive of Harpocrates (child god)", "label": 748}
+{"text": "Inscribed limestone block from an Alexandrian temple", "label": 749}
+{"text": "Roman-period amphora with titling and stamps", "label": 750}
+{"text": "Ptolemaic faience plaque with royal name", "label": 751}
+{"text": "Stone funerary altar with Greek inscription", "label": 752}
+{"text": "Bronze surgical instruments set (Roman medical kit)", "label": 753}
+{"text": "Bronze stylus set (scribal equipment)", "label": 754}
+{"text": "Roman glass bowl with rosette base", "label": 755}
+{"text": "Faience offering table miniature (domestic cult)", "label": 756}
+{"text": "Lead sling-bullet with Greek inscription", "label": 757}
+{"text": "Papyrus letter with commercial transactions (Roman Egypt)", "label": 758}
+{"text": "Marble funerary portrait with painted details", "label": 759}
+{"text": "Bronze votive plaque showing the Nile goddess", "label": 760}
+{"text": "Bronze horse bit with embossed decoration (military)", "label": 761}
+{"text": "Terracotta theatrical mask (stage use)", "label": 762}
+{"text": "Silver cosmetic mirror with lion handle", "label": 763}
+{"text": "Coptic inscribed iconostasis panel (carved wood)", "label": 764}
+{"text": "Gold funerary earring set (Roman Egypt elite)", "label": 765}
+{"text": "Wooden reliquary box with Coptic crosses", "label": 766}
+{"text": "Painted panel icon of Saint Mercurius (Coptic Cairo find)", "label": 767}
+{"text": "Glass mosaic tesserae panel fragment (late antique)", "label": 768}
+{"text": "Bronze door knocker with Gorgoneion (protective motif)", "label": 769}
+{"text": "Statue base with dedicatory Greek inscription", "label": 770}
+{"text": "Lead weight with Ptolemaic standard marks", "label": 771}
+{"text": "Bronze figurine of a seated philosopher (Hellenistic)", "label": 772}
+{"text": "Coptic leather-bound codex fragment (hagiography)", "label": 773}
+{"text": "Marble portrait head of a Roman official", "label": 774}
+{"text": "Terracotta oil lamp decorated with fish motif (Alexandria)", "label": 775}
+{"text": "Bronze fish-hook and net weights (fishing gear)", "label": 776}
+{"text": "Stone relief of the Nile boat procession (Hellenistic style)", "label": 777}
+{"text": "Silver-inlaid gaming board (luxury household object)", "label": 778}
+{"text": "Christian funerary stele with Coptic text", "label": 779}
+{"text": "Bronze mirror-case with portrait medallion", "label": 780}
+{"text": "Painted wooden mummy portrait of a matron (Fayum)", "label": 781}
+{"text": "Gold-inlaid fibula brooch (Roman clothing pin)", "label": 782}
+{"text": "Marble sarcophagus with Bacchic scenes (imported style)", "label": 783}
+{"text": "Bronze lamp-stand with mythological reliefs", "label": 784}
+{"text": "Terracotta plaque with household deity image", "label": 785}
+{"text": "Inscribed bronze plaque (official decree - Greek)", "label": 786}
+{"text": "Wooden tablet with wax writing surface (school practice)", "label": 787}
+{"text": "Roman glass core-formed jug with rosette neck", "label": 788}
+{"text": "Faience scarab with Greek name", "label": 789}
+{"text": "Clay amphora sherd with potters' mark (trade evidence)", "label": 790}
+{"text": "Bronze pectoral ornament with inlaid glass", "label": 791}
+{"text": "Marble statuette of Aphrodite (Hellenistic workshop)", "label": 792}
+{"text": "Painted Coptic textile with narrative scenes", "label": 793}
+{"text": "Church reliquary cross in gold and niello (Coptic)", "label": 794}
+{"text": "Roman bronze lamp with dolphin handle", "label": 795}
+{"text": "Terracotta ossuary with painted decoration (Greek-influenced)", "label": 796}
+{"text": "Glass perfume bottle with silver collar (luxury)", "label": 797}
+{"text": "Painted limestone funerary stela with bilingual inscriptions", "label": 798}
+{"text": "Marble head of an Augustus-era portrait (Roman imperial)", "label": 799}
+{"text": "Bronze votive statuette of Serapis (Hellenistic cult)", "label": 800}
+{"text": "Inscribed lead document of sale (archival find)", "label": 801}
+{"text": "Coptic monastery ledger (account book fragment)", "label": 802}
+{"text": "Bronze statuette of a seated pharaoh in Hellenistic style", "label": 803}
+{"text": "Silver coin: Roman provincial issue with local motifs", "label": 804}
+{"text": "Terracotta figure of a worshipper from Kom el-Dikka", "label": 805}
+{"text": "Painted wooden coffin fragment with Christian symbols", "label": 806}
+{"text": "Gold signet ring with Greek inscription", "label": 807}
+{"text": "Bronze folding knife with bone handle (everyday tool)", "label": 808}
+{"text": "Marble relief of a procession honoring Serapis", "label": 809}
+{"text": "Glass bowl with polychrome trails (Roman luxury)", "label": 810}
+{"text": "Painted panel showing Christian liturgical scene (Coptic)", "label": 811}
+{"text": "Bronze votive hand amulet (protective device)", "label": 812}
+{"text": "Lead curse tablet with scratched names (binding spells)", "label": 813}
+{"text": "Stone kouros-like statuette adapted to Egyptian iconography", "label": 814}
+{"text": "Terracotta lamp with Christian cross cutout (early Coptic)", "label": 815}
+{"text": "Marble funerary stele dedicated to a physician", "label": 816}
+{"text": "Bronze bell from a church complex (liturgical object)", "label": 817}
+{"text": "Fragmentary catacomb sarcophagus lid with portrait", "label": 818}
+{"text": "Wooden comb and mirror set from a Fayum burial", "label": 819}
+{"text": "Marble statue of a Hellenistic athlete (copied Greek original)", "label": 820}
+{"text": "Painted papyrus with magical formulae (Graeco-Egyptian)", "label": 821}
+{"text": "Coptic wood-carved icon frame with inlaid ivory", "label": 822}
+{"text": "Silver bowl with Dionysian motifs (reused in Egyptian context)", "label": 823}
+{"text": "Bronze votive bird (temple offering)", "label": 824}
+{"text": "Terracotta plaque with inscription honoring a benefactor", "label": 825}
+{"text": "Marble fragment with acanthus leaf ornament (architectural)", "label": 826}
+{"text": "Fayum limestone funerary portrait with encaustic paint", "label": 827}
+{"text": "Lead seal of a Christian bishop (episcopal seal)", "label": 828}
+{"text": "Bronze buckle with inlaid faience", "label": 829}
+{"text": "Stone amphora storage label with graffiti", "label": 830}
+{"text": "Glass unguentarium with funerary oil residues", "label": 831}
+{"text": "Painted wooden staff with Christian iconography", "label": 832}
+{"text": "Silver beaker with incised hunting scene", "label": 833}
+{"text": "Coptic silver icon with repoussé imagery", "label": 834}
+{"text": "Bronze lamp with pierced stars (astral symbolism)", "label": 835}
+{"text": "Marble funerary portrait of a child (Fayum encaustic)", "label": 836}
+{"text": "Wooden box with ivory inlay (domestic luxury)", "label": 837}
+{"text": "Terracotta altar with graffiti prayers", "label": 838}
+{"text": "Painted plaster fragment with Coptic prayers", "label": 839}
+{"text": "Gold leaf tomb inlay with floral motifs", "label": 840}
+{"text": "Marble throne fragment with lion armrest (Hellenistic palace)", "label": 841}
+{"text": "Bronze vase with embossed rosette pattern", "label": 842}
+{"text": "Terracotta oil lamp with theatrical masks", "label": 843}
+{"text": "Lead weight with merchant's mark (trade economy)", "label": 844}
+{"text": "Bronze spatula and cosmetic set (personal grooming)", "label": 845}
+{"text": "Painted wooden cradle model (infant funerary object)", "label": 846}
+{"text": "Marble statuette of a seated goddess (Hellenistic)", "label": 847}
+{"text": "Gold funerary amulet with protective inscription", "label": 848}
+{"text": "Glass mosaic floor fragment (villa decoration)", "label": 849}
+{"text": "Terracotta plaque of a local saint (Coptic)", "label": 850}
+{"text": "Bronze plaque with tax record inscription (administrative)", "label": 851}
+{"text": "Painted wooden icon of a bishop (Coptic workshop)", "label": 852}
+{"text": "Marble inscription commemorating a temple donor", "label": 853}
+{"text": "Bronze rhyton with zoomorphic spout (ritual drinking vessel)", "label": 854}
+{"text": "Painted linen shroud with funerary inscriptions", "label": 855}
+{"text": "Terracotta mask used in funerary rituals", "label": 856}
+{"text": "Bronze strigil and bathing kit (Roman hygiene)", "label": 857}
+{"text": "Stone relief of agricultural offerings with Greek captions", "label": 858}
+{"text": "Wooden crib model with infant figurine (household votive)", "label": 859}
+{"text": "Painted sarcophagus lid with Hellenistic ornament", "label": 860}
+{"text": "Bronze votive plate with sun motif", "label": 861}
+{"text": "Marble head of a Hellenistic child portrait", "label": 862}
+{"text": "Stone funerary niche with bilingual text", "label": 863}
+{"text": "Terracotta perfume flask with stamped design", "label": 864}
+{"text": "Bronze statuette of a seated philosopher (variant)", "label": 865}
+{"text": "Painted Coptic textile fragment with geometric motifs", "label": 866}
+{"text": "Marble relief panel with portrait medallion", "label": 867}
+{"text": "Faience bird amulet with turquoise glazing", "label": 868}
+{"text": "Terracotta plaque with votive inscriptions (Greek)", "label": 869}
+{"text": "Bronze figure of a youth (Hellenistic workshop)", "label": 870}
+{"text": "Inscribed ostracon with school exercises (Greek)", "label": 871}
+{"text": "Painted wooden icon of the Archangel Michael (Coptic)", "label": 872}
+{"text": "Marble sarcophagus fragment with eagle motif", "label": 873}
+{"text": "Glass bowl with gilded trails (luxury tableware)", "label": 874}
+{"text": "Bronze votive plaque of Asclepius (healing cult)", "label": 875}
+{"text": "Painted cartonnage panel with religious iconography", "label": 876}
+{"text": "Ilkhanid-inspired Qur'an folio with gold illumination", "label": 877}
+{"text": "Fatimid rock crystal ewer (glasswork replica/alleged provenance)", "label": 878}
+{"text": "Mamluk inlaid brass candlestick with arabesque panels", "label": 879}
+{"text": "Ottoman-era brass mosque lamp with niello calligraphy", "label": 880}
+{"text": "Mamluk glass mosque lamp with enamelled decoration (fragment)", "label": 881}
+{"text": "Ottoman inscribed brass astrolabe (astronomical instrument)", "label": 882}
+{"text": "Fatimid-period carved ivory box with vegetal motifs", "label": 883}
+{"text": "Blue and white Iznik-style tile panel (Ottoman period)", "label": 884}
+{"text": "Ghuri-style inlaid wooden Qur'an stand (rehal)", "label": 885}
+{"text": "Silver reliquary pendant with calligraphic band (Sufi shrine)", "label": 886}
+{"text": "Damascene-inlaid dagger with gold koftgari (Ottoman workshop)", "label": 887}
+{"text": "Mamluk-era bronze censer with suspension chains", "label": 888}
+{"text": "Qur'anic manuscript on parchment with Kufic script (early Islamic)", "label": 889}
+{"text": "Late Mamluk brass basin with donor inscription", "label": 890}
+{"text": "Ottoman-era embroidered kaftan with silk and gold thread", "label": 891}
+{"text": "Carved wooden minbar panel (mosque furnishing fragment)", "label": 892}
+{"text": "Al-Azhar madrasa inscriptional panel (stone with Kufic)", "label": 893}
+{"text": "Safavid-influenced textile fragment (imported fabric)", "label": 894}
+{"text": "Fatimid rock crystal ewer (documented in regional collection)", "label": 895}
+{"text": "Bronze mosque door knockers with lion-head motifs (Ottoman)", "label": 896}
+{"text": "Silver-inlaid sword scabbard with Ottoman tughra", "label": 897}
+{"text": "Ilkhanid or Mamluk glass perfume bottle with gilding", "label": 898}
+{"text": "Wooden inlaid chest with mother-of-pearl (Ottoman domestic)", "label": 899}
+{"text": "Handwritten waqf deed on paper (endowment record)", "label": 900}
+{"text": "Islamic glazed pottery bowl with epigraphic band (Fustat)", "label": 901}
+{"text": "Brass astrolabe quadrant (Islamic astronomical tool)", "label": 902}
+{"text": "Mamluk carved marble column fragment with interlace", "label": 903}
+{"text": "Terracotta glazed tiles with geometric patterns (Fatimid revival)", "label": 904}
+{"text": "Ceramic jar with Kufic painted inscription (Early Islamic)", "label": 905}
+{"text": "Miniature painting panel depicting courtly scene (Mamluk style)", "label": 906}
+{"text": "Ivory comb set with Kufic inscriptions (personal luxury)", "label": 907}
+{"text": "Ottoman-era copper coffee urn with repoussé decoration", "label": 908}
+{"text": "Marble mihrab panel fragment with vegetal arabesques (mosque)", "label": 909}
+{"text": "Brass mirror with inscribed proverb (household object)", "label": 910}
+{"text": "Damascene-inlaid brass pen-box (qalamdan) with floral motifs", "label": 911}
+{"text": "Silver sufra (ritual tray) with hammered geometric decoration", "label": 912}
+{"text": "Handwritten Ottoman divan poetry manuscript (calligraphy)", "label": 913}
+{"text": "Mamluk bronze oil lamp with inlaid silver", "label": 914}
+{"text": "Carved wooden door panel from a Cairene townhouse (mashrabiya)", "label": 915}
+{"text": "Qur'anic manuscript with illuminated shamsa (sunburst)", "label": 916}
+{"text": "Bronze cannonball with Ottoman inscriptions (military)", "label": 917}
+{"text": "Marble tombstone with Arabic epitaph (medieval cemetery)", "label": 918}
+{"text": "Ottoman-era scale and weights set (merchant's toolkit)", "label": 919}
+{"text": "Brass astrolabe with star-pointer and Arabic numerals", "label": 920}
+{"text": "Fatimid carved stone relief with vegetal motifs (architectural fragment)", "label": 921}
+{"text": "Mamluk glass bead necklace (beadwork jewelry)", "label": 922}
+{"text": "Persian-influenced ceramic bowl with lotus motifs (imported)", "label": 923}
+{"text": "Ivory-inlaid wooden coffer with geometric panels (Islamic crafts)", "label": 924}
+{"text": "Qur'anic manuscript page with marginalia (reader's notes)", "label": 925}
+{"text": "Damascene-inlaid dish with figural hunting scene (ceremonial)", "label": 926}
+{"text": "Bronze footed incense burner with calligraphic band", "label": 927}
+{"text": "Silver coin hoard from Ottoman period (local mints)", "label": 928}
+{"text": "Black-glazed Fustat bowl with Kufic inscription", "label": 929}
+{"text": "Blue-glazed mosque tile with epigraphic cartouche (Ottoman restoration)", "label": 930}
+{"text": "Carved cedar chest with inlay from Aleppo trade routes", "label": 931}
+{"text": "Ottoman-era military sabre with decorative hilt", "label": 932}
+{"text": "Islamic funerary shroud fragment with woven text (linen)", "label": 933}
+{"text": "Manuscript of medical treatise in Arabic (Islamic Golden Age copy)", "label": 934}
+{"text": "Stone tomb lintel with Qur'anic inscription (Fatimid-era)", "label": 935}
+{"text": "Wooden reliquary with saint's relics from a Sufi zawiya", "label": 936}
+{"text": "Brass mortar and pestle set used in apothecary (Ottoman period)", "label": 937}
+{"text": "Glass mosque lamp with enamelled Qur'anic inscription (Mamluk)", "label": 938}
+{"text": "Carved stucco frieze fragment with arabesque (Fatimid palace)", "label": 939}
+{"text": "Silver-inlaid kathra (textile weight) with vegetal scrolls", "label": 940}
+{"text": "Al-Azhar scholarly register (list of students, Ottoman era)", "label": 941}
+{"text": "Brass binocular-like device (optical toy / instrument)", "label": 942}
+{"text": "Brass oil lamp with muqarnas decoration (Islamic architectural motif)", "label": 943}
+{"text": "Decorative wooden panel with inlay from Medinet Habu reuse in medieval Cairo", "label": 944}
+{"text": "Bone gaming pieces with Kufic numerals (leisure artifacts)", "label": 945}
+{"text": "Glazed tile with vegetal arabesque and cobalt (Ottoman-era import)", "label": 946}
+{"text": "Damascene-inlaid candlestick with Quranic inscription", "label": 947}
+{"text": "Marble column capital with intertwined vegetal motifs (Mamluk)", "label": 948}
+{"text": "Silver incense spoon with long handle (liturgical use)", "label": 949}
+{"text": "Carved palm-leaf manuscript cover with blind tooling", "label": 950}
+{"text": "Fragment of Quranic calligraphy on wall plaster (inscribed panel)", "label": 951}
+{"text": "Islamic ceramic lamp with suspension ring (Mosque fixture)", "label": 952}
+{"text": "Brass astronomical instrument (quadrant) with scribe's name", "label": 953}
+{"text": "Gold Ottoman-era coin (altin) with sultan's tughra", "label": 954}
+{"text": "Leather-bound legal codex with binding straps (Islamic jurisprudence)", "label": 955}
+{"text": "Ottoman-era inlaid latif-style chess set (game)", "label": 956}
+{"text": "Wooden panel with inlaid silver and niello (domestic luxury)", "label": 957}
+{"text": "Carved stone basin with Arabic inscription (public fountain)", "label": 958}
+{"text": "Islamic glazed bowl with incised vegetal patterns (Fustat pottery)", "label": 959}
+{"text": "Brass naval mirror with compass rose engraving (maritime use)", "label": 960}
+{"text": "Textile panel with selvedge inscription (Ottoman workshop)", "label": 961}
+{"text": "Gold-inlaid Quran cover with vegetal arabesques (luxury)", "label": 962}
+{"text": "Brass-bound casket with hammered decoration (portable reliquary)", "label": 963}
+{"text": "Manuscript of Sufi poetry with commentary (Ottoman copy)", "label": 964}
+{"text": "Carved wooden ceiling beam with painted motifs (house interior)", "label": 965}
+{"text": "Bronze astrolabe-sundial hybrid (instrument maker's mark)", "label": 966}
+{"text": "Stone-lintel with Mamluk royal titulary (donor inscription)", "label": 967}
+{"text": "Bronze door stud with Kufic inscription (architectural hardware)", "label": 968}
+{"text": "Painted ceramic tile with figural medallion (rare in Islamic contexts)", "label": 969}
+{"text": "Brass mosque lamp with suspended chains and enamel (luxury liturgy)", "label": 970}
+{"text": "Silver-inlaid iron lock and keyset (Ottoman period technology)", "label": 971}
+{"text": "Painted Qur'anic stand with inlaid motifs (wooden rehal)", "label": 972}
+{"text": "Damascene-inlaid tray with hunting scenes (ceremonial)", "label": 973}
+{"text": "Stone funerary niche with geometric tile inlay (medieval funerary)", "label": 974}
+{"text": "Handwritten registry of tax receipts (Ottoman fiscal documents)", "label": 975}
+{"text": "Brass mirror with inscribed poem (love inscriptions)", "label": 976}

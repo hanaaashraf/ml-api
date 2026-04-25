@@ -2,50 +2,27 @@ import torch
 import json
 import pandas as pd
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
-import os
-
-# ----------------------------
-# CONFIG
-# ----------------------------
 
 MODEL_PATH = "models/classifier"
 
-tokenizer = None
-model = None
-id_to_label = None
-df = None
-
 # ----------------------------
-# LAZY LOADING (IMPORTANT FOR RENDER)
+# LOAD MODEL (runs once)
 # ----------------------------
+print("Loading text model...")
 
-def load_resources():
-    global tokenizer, model, id_to_label, df
+tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
+model = AutoModelForSequenceClassification.from_pretrained(MODEL_PATH)
 
-    if tokenizer is None or model is None:
+with open("models/classifier/labels.json", "r", encoding="utf-8") as f:
+    id_to_label = json.load(f)
 
-        print("Loading text model...")
-
-        # Load tokenizer + model
-        tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
-        model = AutoModelForSequenceClassification.from_pretrained(MODEL_PATH)
-        model.eval()
-
-        # Load labels
-        with open(f"{MODEL_PATH}/labels.json", "r", encoding="utf-8") as f:
-            id_to_label = json.load(f)
-
-        # Load dataset
-        df = pd.read_csv("TravelSync/data/Egypt_Heritage_Artifacts_1000.csv")
+df = pd.read_csv(r"C:\Graduation Project\TravelSync\data\Egypt_Heritage_Artifacts_1000.csv")
 
 
 # ----------------------------
-# MAIN FUNCTION
+# PREDICTION FUNCTION
 # ----------------------------
-
 def ask_model(question):
-    load_resources()
-
     inputs = tokenizer(question, return_tensors="pt", truncation=True)
 
     with torch.no_grad():
@@ -71,16 +48,16 @@ def ask_model(question):
 
 
 # ----------------------------
-# LOCAL TEST (optional)
+# OPTIONAL: LOCAL TESTING
 # ----------------------------
-
 if __name__ == "__main__":
-    print("\nAI Ready. Type 'exit' to quit.\n")
+    print("\n✅ AI Ready. Type 'exit' to quit.\n")
 
     while True:
-        q = input("Ask: ")
+        question = input("Ask: ")
 
-        if q.lower() == "exit":
+        if question.lower() == "exit":
             break
 
-        print(ask_model(q))
+        result = ask_model(question)
+        print(result)
