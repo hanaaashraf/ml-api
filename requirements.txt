@@ -6,3 +6,4 @@ pillow
 pandas
 gdown
 numpy==2.0.2
+transformers
