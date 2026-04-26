@@ -7,3 +7,5 @@ sentence-transformers
 numpy
 gdown
 sentencepiece
+faiss-cpu
+faiss
