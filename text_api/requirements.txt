@@ -7,5 +7,4 @@ sentence-transformers
 numpy
 gdown
 sentencepiece
-faiss-cpu
-faiss
+faiss-cpu==1.7.4
