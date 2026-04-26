@@ -5,3 +5,4 @@ pandas
 transformers
 sentence-transformers
 numpy
+gdown
