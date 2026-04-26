@@ -2,8 +2,22 @@ import torch
 import json
 import pandas as pd
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
+import os
+import gdown
 
 MODEL_PATH = "models/classifier"
+
+# Download model if missing
+if not os.path.exists(MODEL_PATH):
+    print("Downloading text model...")
+
+    os.makedirs("models", exist_ok=True)
+
+    gdown.download_folder(
+        "https://drive.google.com/drive/folders/1VLboJGUbPsoJf7zNZuxn0d3CK_8dSoQc?usp=drive_link",
+        output=MODEL_PATH,
+        quiet=False
+    )
 
 # ----------------------------
 # LOAD MODEL (runs once)
