@@ -1,77 +1,39 @@
-import torch
-import json
+import faiss
+import numpy as np
 import pandas as pd
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
-import os
-import gdown
+from sentence_transformers import SentenceTransformer
+import json
 
-MODEL_PATH = "models/classifier"
+INDEX_PATH = "models/faiss.index"
+META_PATH = "models/faiss_meta.json"
 
-# Download model if missing
-if not os.path.exists(MODEL_PATH):
-    print("Downloading text model...")
+# ================= LOAD =================
+print("Loading FAISS model...")
 
-    os.makedirs("models", exist_ok=True)
+index = faiss.read_index(INDEX_PATH)
+df = pd.read_json(META_PATH)
 
-    gdown.download_folder(
-        "https://drive.google.com/drive/folders/1VLboJGUbPsoJf7zNZuxn0d3CK_8dSoQc?usp=drive_link",
-        output=MODEL_PATH,
-        quiet=False
-    )
+model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
-# ----------------------------
-# LOAD MODEL (runs once)
-# ----------------------------
-print("Loading text model...")
+# ================= SEARCH =================
+def ask_model(query: str):
+    query_vec = model.encode([query]).astype("float32")
 
-tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
-model = AutoModelForSequenceClassification.from_pretrained(MODEL_PATH)
+    D, I = index.search(query_vec, 1)
 
-with open("models/classifier/labels.json", "r", encoding="utf-8") as f:
-    id_to_label = json.load(f)
+    idx = I[0][0]
 
-df = pd.read_csv(r"C:\Graduation Project\TravelSync\data\Egypt_Heritage_Artifacts_1000.csv")
-
-
-# ----------------------------
-# PREDICTION FUNCTION
-# ----------------------------
-def ask_model(question):
-    inputs = tokenizer(question, return_tensors="pt", truncation=True)
-
-    with torch.no_grad():
-        outputs = model(**inputs)
-
-    predicted_class = torch.argmax(outputs.logits).item()
-    predicted_name = id_to_label[str(predicted_class)]
-
-    result = df[df["Name"] == predicted_name]
-
-    if result.empty:
-        return {
-            "error": "No information found",
-            "prediction": predicted_name
-        }
-
-    row = result.iloc[0]
+    result = df.iloc[idx].to_dict()
 
     return {
-        "prediction": predicted_name,
-        "data": row.to_dict()
+        "query": query,
+        "result": result
     }
 
-
-# ----------------------------
-# OPTIONAL: LOCAL TESTING
-# ----------------------------
+# ================= TEST =================
 if __name__ == "__main__":
-    print("\n✅ AI Ready. Type 'exit' to quit.\n")
-
     while True:
-        question = input("Ask: ")
-
-        if question.lower() == "exit":
+        q = input("Ask: ")
+        if q == "exit":
             break
-
-        result = ask_model(question)
-        print(result)
+        print(ask_model(q))

@@ -1,33 +1,51 @@
-from fastapi import FastAPI, Form
-import os
-import gdown
+from fastapi import FastAPI
+from pydantic import BaseModel
+import faiss
+import numpy as np
+import pandas as pd
+from sentence_transformers import SentenceTransformer
 
-from ask_model import ask_model
+# ================= APP =================
+app = FastAPI(title="TravelSync FAISS API")
 
-app = FastAPI()
+# ================= LOAD MODEL ON START =================
+print("Loading FAISS index...")
 
-MODEL_PATH = "models/classifier"
+INDEX_PATH = "models/faiss.index"
+META_PATH = "models/faiss_meta.json"
 
-def ensure_model():
-    if not os.path.exists(MODEL_PATH):
-        print("Downloading text model...")
+index = faiss.read_index(INDEX_PATH)
+df = pd.read_json(META_PATH)
 
-        os.makedirs("models", exist_ok=True)
+embedding_model = SentenceTransformer(
+    "sentence-transformers/all-MiniLM-L6-v2"
+)
 
-        gdown.download_folder(
-            "https://drive.google.com/drive/folders/1VLboJGUbPsoJf7zNZuxn0d3CK_8dSoQc?usp=drive_link",
-            output=MODEL_PATH,
-            quiet=False
-        )
+# ================= REQUEST FORMAT =================
+class QueryRequest(BaseModel):
+    text: str
+
+# ================= SEARCH FUNCTION =================
+def search_faiss(query: str):
+    query_vec = embedding_model.encode([query]).astype("float32")
+
+    D, I = index.search(query_vec, 1)
+
+    idx = I[0][0]
+
+    result = df.iloc[idx].to_dict()
+
+    return {
+        "query": query,
+        "result": result
+    }
+
+# ================= ROUTES =================
 
 @app.get("/")
 def home():
-    return {"status": "text api running"}
+    return {"status": "FAISS API running 🚀"}
 
-@app.post("/predict-text")
-async def predict_text(text: str = Form(...)):
-    ensure_model()
-
-    result = ask_model(text)
-
-    return {"result": result}
+@app.post("/search")
+def search(req: QueryRequest):
+    return search_faiss(req.text)

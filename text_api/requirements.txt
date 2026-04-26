@@ -6,3 +6,4 @@ transformers
 sentence-transformers
 numpy
 gdown
+sentencepiece
