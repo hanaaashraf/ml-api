@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 python-3.11.9
-=======
-python-3.11.9
->>>>>>> b834911 (Add runtime.txt for Render Python version)
